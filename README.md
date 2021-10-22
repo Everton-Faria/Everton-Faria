@@ -1,4 +1,4 @@
-P- 👋 Hi, I’m @Everton-Faria
+- 👋 Hi, I’m @Everton-Faria
 - 👀 I’m interested in ...c# e  Js
 - 🌱 I’m currently l tentando aprender c#
 - 💞️ I’m looking to collaborate on ...dúvidas gerais
